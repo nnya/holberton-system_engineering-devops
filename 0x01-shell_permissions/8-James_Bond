@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod o+u o+g 001 002 004 hello
